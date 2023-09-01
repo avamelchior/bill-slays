@@ -7,6 +7,8 @@ body {
     background-color:	#edaabb;
     font-family: 'Brush Script MT', cursive;
     font-size: 50px;
+    margin-top: 50px;
+
 }
 
 h1 {
@@ -32,3 +34,11 @@ h6 {
 }
 
 
+img {
+    border: 5px solid #d75c8c;
+    border-radius: 50%;
+    }
+
+header {
+    margin-bottom: 50px;
+}
