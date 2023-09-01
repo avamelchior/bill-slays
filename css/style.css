@@ -3,19 +3,32 @@ body {
     background-color: #e895aa;
     background-image: url("https://clipart-library.com/img/2103572.gif");
     text-align: center;
-    
-
-
-
+    color: 	#611b36;
+    background-color:	#edaabb;
+    font-family: 'Brush Script MT', cursive;
+    font-size: 50px;
 }
+
 h1 {
     color: 	#d75c8c;
     background-color:	#edaabb;
     text-align: center;
-    margin-left: 575px;
-    margin-right: 575px;
+    margin-left: 500px;
+    margin-right: 500px;
     font-family: 'Brush Script MT', cursive;
     border: 5px solid #d75c8c;
     border-radius: 20%;
 }
+
+h6 {
+    color: 	#d75c8c;
+    background-color:	#edaabb;
+    text-align: center;
+    margin-left: 500px;
+    margin-right: 500px;
+    font-family: 'Brush Script MT', cursive;
+    border: 5px solid #d75c8c;
+    border-radius: 20%;
+}
+
 
