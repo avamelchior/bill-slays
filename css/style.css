@@ -1,0 +1,21 @@
+
+body {
+    background-color: #e895aa;
+    background-image: url("https://clipart-library.com/img/2103572.gif");
+    text-align: center;
+    
+
+
+
+}
+h1 {
+    color: 	#d75c8c;
+    background-color:	#edaabb;
+    text-align: center;
+    margin-left: 575px;
+    margin-right: 575px;
+    font-family: 'Brush Script MT', cursive;
+    border: 5px solid #d75c8c;
+    border-radius: 20%;
+}
+
